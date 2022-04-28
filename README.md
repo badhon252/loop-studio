@@ -1,6 +1,6 @@
 # Frontend Mentor - Loopstudios landing page
 
-![Design preview for the Loopstudios landing page coding challenge](https://khalidhossainbadhon.github.io/loop-studio/)
+[Design preview for the Loopstudios landing page coding challenge](https://khalidhossainbadhon.github.io/loop-studio/)
 
 ## Welcome! 👋
 
